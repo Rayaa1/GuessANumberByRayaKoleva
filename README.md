@@ -7,6 +7,12 @@ Guess-A-Number is a simple two-players game where opponent (the computer) random
 # Rules
 Your opponent (the computer) picks a number from 1-100. Then type a number of your choice on the console. If the number you choose is "too low" than your opponent's, you can choose another higher number again. And if the console prints "too high", you can choose a lower number.
 
+![image](https://user-images.githubusercontent.com/117087939/215822995-13202d44-d9dd-4764-a7a9-380ed57ddcde.png)         ![image](https://user-images.githubusercontent.com/117087939/215824029-17f75d03-64d2-4f2b-b171-8ec0e4e483ab.png)
+# Winner
+If you find the number choosen by your opponent - you win!
+
+
+
 
 
 
