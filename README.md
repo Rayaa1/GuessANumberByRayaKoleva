@@ -9,7 +9,10 @@ Your opponent (the computer) picks a number from 1-100. Then type a number of yo
 
 ![image](https://user-images.githubusercontent.com/117087939/215822995-13202d44-d9dd-4764-a7a9-380ed57ddcde.png)         ![image](https://user-images.githubusercontent.com/117087939/215824029-17f75d03-64d2-4f2b-b171-8ec0e4e483ab.png)
 # Winner
-If you find the number choosen by your opponent - you win!
+If you find the number choosen by your opponent - you win! 
+  
+  ![image](https://user-images.githubusercontent.com/117087939/215826465-d9d68596-fe1e-4e98-889b-305db0c6871f.png)
+ 
 
 
 
